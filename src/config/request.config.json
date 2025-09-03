@@ -1,0 +1,8 @@
+{
+  "timeout": 5000,
+  "retryAttempts": 3,
+  "baseURL": "https://openapi.youdao.com/api",
+  "headers": {
+    "Content-Type": "application/x-www-form-urlencoded"
+  }
+}
